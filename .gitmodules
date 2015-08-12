@@ -1,0 +1,9 @@
+[submodule "virtual_inputdevice"]
+	path = virtual_inputdevice
+	url = https://github.com/SKKU-ESLAB-Tizen/virtual_inputdevice
+[submodule "remote-key-framework-service"]
+	path = remote-key-framework-service
+	url = https://github.com/SKKU-ESLAB-Tizen/remote-key-framework-service
+[submodule "remote-key-framework-client"]
+	path = remote-key-framework-client
+	url = https://github.com/SKKU-ESLAB-Tizen/remote-key-framework-client
